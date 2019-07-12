@@ -1,0 +1,128 @@
+<package>
+  <metadata>
+    <id>TestWebApplication</id>
+    <version>2.0.0.0</version>
+    <authors>paulr</authors>
+    <owners>paulr</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The TestWebApplication deployment package, built on 12/07/2019</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap-theme.css" target="Content\bootstrap-theme.css" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap-theme.min.css" target="Content\bootstrap-theme.min.css" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\favicon.ico" target="favicon.ico" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Global.asax" target="Global.asax" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\Site.css" target="Content\Site.css" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.js" target="Scripts\jquery-3.3.1.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.min.js" target="Scripts\jquery-3.3.1.min.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.slim.js" target="Scripts\jquery-3.3.1.slim.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.slim.min.js" target="Scripts\jquery-3.3.1.slim.min.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\modernizr-2.8.3.js" target="Scripts\modernizr-2.8.3.js" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Web.config" target="Web.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Web.Debug.config" target="Web.Debug.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Web.Release.config" target="Web.Release.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Web.config" target="Views\Web.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Views\Octopus\Index.cshtml" target="Views\Octopus\Index.cshtml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\fonts\glyphicons-halflings-regular.woff2" target="fonts\glyphicons-halflings-regular.woff2" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap.min.css.map" target="Content\bootstrap.min.css.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap.css.map" target="Content\bootstrap.css.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap-theme.min.css.map" target="Content\bootstrap-theme.min.css.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Content\bootstrap-theme.css.map" target="Content\bootstrap-theme.css.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.slim.min.map" target="Scripts\jquery-3.3.1.slim.min.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\Scripts\jquery-3.3.1.min.map" target="Scripts\jquery-3.3.1.min.map" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\obj\Debug\TestWebApplication.csproj.CopyComplete" target="bin\obj\Debug\TestWebApplication.csproj.CopyComplete" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\TestWebApplication.dll.config" target="bin\TestWebApplication.dll.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\TestWebApplication.dll" target="bin\TestWebApplication.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\TestWebApplication.pdb" target="bin\TestWebApplication.pdb" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csc.exe" target="bin\roslyn\csc.exe" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csc.exe.config" target="bin\roslyn\csc.exe.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csc.rsp" target="bin\roslyn\csc.rsp" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csi.exe" target="bin\roslyn\csi.exe" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csi.exe.config" target="bin\roslyn\csi.exe.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\csi.rsp" target="bin\roslyn\csi.rsp" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" target="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll" target="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" target="bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" target="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets" target="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" target="bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" target="bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.Managed.Core.targets" target="bin\roslyn\Microsoft.Managed.Core.targets" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets" target="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.AppContext.dll" target="bin\roslyn\System.AppContext.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Collections.Immutable.dll" target="bin\roslyn\System.Collections.Immutable.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Console.dll" target="bin\roslyn\System.Console.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll" target="bin\roslyn\System.Diagnostics.FileVersionInfo.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll" target="bin\roslyn\System.Diagnostics.StackTrace.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.IO.Compression.dll" target="bin\roslyn\System.IO.Compression.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.IO.FileSystem.dll" target="bin\roslyn\System.IO.FileSystem.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll" target="bin\roslyn\System.IO.FileSystem.Primitives.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll" target="bin\roslyn\System.IO.Pipes.AccessControl.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.IO.Pipes.dll" target="bin\roslyn\System.IO.Pipes.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Reflection.Metadata.dll" target="bin\roslyn\System.Reflection.Metadata.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.AccessControl.dll" target="bin\roslyn\System.Security.AccessControl.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Claims.dll" target="bin\roslyn\System.Security.Claims.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll" target="bin\roslyn\System.Security.Cryptography.Algorithms.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll" target="bin\roslyn\System.Security.Cryptography.Encoding.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll" target="bin\roslyn\System.Security.Cryptography.Primitives.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll" target="bin\roslyn\System.Security.Cryptography.X509Certificates.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Security.Principal.Windows.dll" target="bin\roslyn\System.Security.Principal.Windows.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll" target="bin\roslyn\System.Text.Encoding.CodePages.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.ValueTuple.dll" target="bin\roslyn\System.ValueTuple.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll" target="bin\roslyn\System.Xml.ReaderWriter.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Xml.XmlDocument.dll" target="bin\roslyn\System.Xml.XmlDocument.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Xml.XPath.dll" target="bin\roslyn\System.Xml.XPath.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll" target="bin\roslyn\System.Xml.XPath.XDocument.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\vbc.exe" target="bin\roslyn\vbc.exe" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\vbc.exe.config" target="bin\roslyn\vbc.exe.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\vbc.rsp" target="bin\roslyn\vbc.rsp" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\VBCSCompiler.exe" target="bin\roslyn\VBCSCompiler.exe" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\roslyn\VBCSCompiler.exe.config" target="bin\roslyn\VBCSCompiler.exe.config" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="D:\Paul\OctopusTests\TestWebApplication\TestWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+  </files>
+</package>

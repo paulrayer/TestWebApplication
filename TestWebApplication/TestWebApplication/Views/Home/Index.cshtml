@@ -1,0 +1,13 @@
+﻿@using System.Configuration
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h1>
+    Environment: @ConfigurationManager.AppSettings["Environment"]
+</h1>
+<br/>
+<h1>
+    Upload File Size: @ConfigurationManager.AppSettings["UploadFileSize"]
+</h1>
